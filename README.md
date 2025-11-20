@@ -31,7 +31,7 @@ Moe Memos is available on App Store for free. You can also build this app with X
 - Available on iPhone and iPad with multitasking support
 - Full privacy protection, no data collection
 
-Moe Memos is a third-party client for [✍️memos](https://github.com/cardinalblue/memos) and both projects aren't affiliated with each other.
+Moe Memos is a third-party client for [✍️memos](https://github.com/usememos/memos) and both projects aren't affiliated with each other.
 
 ## Development
 
